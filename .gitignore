@@ -1,0 +1,23 @@
+# Node
+Frontend/node_modules/
+.env
+*.log
+
+# React Native
+Frontend/ios/
+Frontend/android/
+Frontend/.expo/
+Frontend/.expo-shared/
+
+# VSCode
+.vscode/
+
+# Mac/Linux system files
+.DS_Store
+
+# Backend specific
+Backend/node_modules/
+Backend/.env
+
+# Expo
+*.expo
